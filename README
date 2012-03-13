@@ -1,1 +1,5 @@
-test
+This Tool shows the status of clients and updates of a WSUS 3.0 infrastructure including downstreamservers.
+To run the tool you need to install the WSUS 3.0 console which can be downloaded from:
+http://www.microsoft.com/download/en/details.aspx?id=5216
+
+The master server has to be defined in the config.xml
