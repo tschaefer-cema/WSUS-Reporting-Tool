@@ -1,0 +1,14 @@
+﻿Feld zur Auswahl der Updatekategorie (critical usw., evtl auch OS)
+
+NotApplicable Fortschrittanzeige bei Updateansicht korrigieren
+
+Auswahl bei Clients: Installiert/Nicht installiert
+Auswahl bei Updates: Installiert/Nicht installiert/Approved oder so.... die Checkboxen direkt neben dem Suchen Button.
+
+
+
+Updates filtern nach Security Bulletin
+
+Filtern der Updates nach Betriebssystem
+
+Checkbox bei Datum um in die Vergangenheit zu blicken... Also alle Updates zu verwenden.
